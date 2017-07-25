@@ -32,7 +32,9 @@
 
 ## 安装 ##
 第一步：运行
-wget https://raw.githubusercontent.com/Loveeatapple/V2ray-Bash/master/v2ray.sh && bash v2ray.sh 
+
+**wget https://raw.githubusercontent.com/Loveeatapple/V2ray-Bash/master/v2ray.sh && bash v2ray.sh**
+
 并按提示配置
 
 第二步：下载对应平台的客户端。并按提示配置。
@@ -47,6 +49,7 @@ wget https://raw.githubusercontent.com/Loveeatapple/V2ray-Bash/master/v2ray.sh &
 ## 感谢 ##
 
 [V2ray](https://v2ray.com "V2ray")
+
 雨落大佬
 
 ## 开源许可 ##
