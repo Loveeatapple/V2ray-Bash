@@ -1,6 +1,6 @@
 ## 简介 ##
 
-一键安装配置 **V2ray**，快速部署科学上网工具~
+一个不存在的Bash。
 
 ## 功能 ##
 
@@ -31,21 +31,23 @@
 此脚本会关闭防火墙，仅适用于纯粹用于扶墙的VPS，请勿在生产环境下使用
 
 ## 安装 ##
-第一步：在VPS上运行脚本，并按提示配置
+第一步：运行
+wget https://raw.githubusercontent.com/Loveeatapple/V2ray-Bash/master/v2ray.sh && bash v2ray.sh 
+并按提示配置
 
-    wget https://raw.githubusercontent.com/FunctionClub/V2ray-Bash/master/v2ray.sh && bash v2ray.sh
-
-第二步：下载VPS上 /root/config.json 客户端配置文件，与V2ray放在同一个文件夹下。（V2ray下载地址：[https://github.com/v2ray/v2ray-core/releases/latest](https://github.com/v2ray/v2ray-core/releases/latest)）
+第二步：下载对应平台的客户端。并按提示配置。
+（V2ray下载地址：[https://github.com/v2ray/v2ray-core/releases/latest](https://github.com/v2ray/v2ray-core/releases/latest)）
 
 第三步：运行V2ray。
 
 第四步：设置代理为http代理，代理服务器地址：127.0.0.1，代理端口为1080
 
-第五步：进入自由的互联网！
+第五步：吃苹果！
 
 ## 感谢 ##
 
 [V2ray](https://v2ray.com "V2ray")
+雨落大佬
 
 ## 开源许可 ##
 
