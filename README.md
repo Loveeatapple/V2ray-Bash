@@ -1,14 +1,12 @@
 ## 简介 ##
 
-一个不存在的Bash。
+你应该知道这是干啥的
 
 ## 功能 ##
 
-- 利用官方脚本部署V2ray,简单方便
-- 一键生成服务器和客户端配置，不再为配置文件而烦恼
+
 - 支持选择**mkcp**协议
 - 支持开启http头部伪装
-- 全中文提示，可一路回车完成配置
 - 自动绕过大陆常用域名和大陆地区IP地址，只加速海外流量。
 
 ## 系统支持 ##
@@ -33,7 +31,7 @@
 ## 安装 ##
 第一步：运行
 
-  wget https://raw.githubusercontent.com/Loveeatapple/V2ray-Bash/master/v2ray.sh && bash v2ray.sh
+   wget https://raw.githubusercontent.com/Loveeatapple/V2ray-Bash/master/v2ray.sh && bash v2ray.sh
 
 并按提示配置
 
