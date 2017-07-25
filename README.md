@@ -1,4 +1,4 @@
-## 简介 ##
+﻿## 简介 ##
 
 你应该知道这是干啥的
 
@@ -32,7 +32,7 @@
 ## 安装 ##
 第一步：运行
 
--    wget https://raw.githubusercontent.com/Loveeatapple/V2ray-Bash/master/v2ray.sh && bash v2ray.sh
+    wget https://raw.githubusercontent.com/Loveeatapple/V2ray-Bash/master/v2ray.sh && bash v2ray.sh
 
 并按提示配置
 
